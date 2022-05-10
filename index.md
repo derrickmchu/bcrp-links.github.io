@@ -41,6 +41,7 @@
 - [Meds list formatter](calcs/meds.html)
 - [PCA bolus frequency](calcs/pca.html)
 - [QTc by boxes](calcs/qtc.html)
+- [Mean Bodyweight Calculator](calcs/mbw.html)
 
 ### Links
 
